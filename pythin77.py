@@ -1,0 +1,10 @@
+num1 = int(input("Enter a number: "))
+num2 = int(input("Enter the second  number: "))
+num3 = int(input("enter the third number: "))
+print("sum of the number:",num1+num2)
+print("substract of the number:",num1-num2)
+print("product of the two numbwers:",num1*num2)
+print("division ofthe two numbers:",num1/num2)
+print("modules of the three numbers:",num1%num2)
+result = (num1 + num2)*num3/2
+print(result)
